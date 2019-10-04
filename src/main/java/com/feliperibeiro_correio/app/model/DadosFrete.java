@@ -1,6 +1,6 @@
 package com.feliperibeiro_correio.app.model;
 
-public class CalcPrecoPrazoModel {
+public class DadosFrete {
 
     private int codigo;
     private String valor;
@@ -13,7 +13,7 @@ public class CalcPrecoPrazoModel {
     private String erro;
     private String msgErro;
     private String valorSemAdicionais;
-    private String obsFim; 
+    private String obsFim;
     private String dataMaxEntrega;
     private String horaMaxEntrega;
 
