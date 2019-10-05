@@ -1,6 +1,6 @@
 package com.feliperibeiro_correio.app.model;
 
-public class DadosFrete {
+public class CalcPrecoPrazo {
 
     private int codigo;
     private String valor;
