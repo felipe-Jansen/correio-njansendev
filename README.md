@@ -4,10 +4,6 @@
 - O webservice dos correios retorna um XML, a correio-njansendev converte o xml em um objeto java, possibilitando o envio como json para o cliente.
 - Dependência:
 
-<pre>
- <dependency>
-  <groupId>com.github.felipe-jansen</groupId>
-  <artifactId>correio-njansendev</artifactId>
-  <version>1.1-SNAPSHOT</version>
-</dependency>
-</pre>
+  groupId: com.github.felipe-jansen
+  artifact: Id>correio-njansendev
+  version: 1.1-SNAPSHOT
