@@ -1,0 +1,12 @@
+com/feliperibeiro_correio/app/model/CalcPrazo.class
+com/feliperibeiro_correio/app/model/CalcPrazoRestricao.class
+com/feliperibeiro_correio/app/App.class
+com/feliperibeiro_correio/app/model/CalcPrecoPrazoData.class
+com/feliperibeiro_correio/app/model/CalcPrazoData.class
+com/feliperibeiro_correio/app/model/CalcPreco.class
+com/feliperibeiro_correio/app/model/CalcPrecoPrazoRestricao.class
+com/feliperibeiro_correio/app/model/CodigoServico.class
+com/feliperibeiro_correio/app/services/CalculaFrete.class
+com/feliperibeiro_correio/app/utils/BuilderParse.class
+com/feliperibeiro_correio/app/model/CalcPrecoPrazo.class
+com/feliperibeiro_correio/app/model/CalcPrecoData.class
