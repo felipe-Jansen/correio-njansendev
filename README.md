@@ -5,5 +5,5 @@
 - Dependência:
 
   groupId: com.github.felipe-jansen<br/>
-  artifactId:correio-njansendev<br/>
+  artifactId: correio-njansendev<br/>
   version: 1.1-SNAPSHOT<br/>
